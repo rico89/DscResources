@@ -121,6 +121,7 @@
 [submodule "xDscResources/xWebAdministration"]
 	path = xDscResources/xWebAdministration
 	url = https://github.com/rico89/xWebAdministration
+        branch = dev
 [submodule "xDscResources/xWebDeploy"]
 	path = xDscResources/xWebDeploy
 	url = https://github.com/PowerShell/xWebDeploy
